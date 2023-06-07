@@ -24,7 +24,6 @@
 </a>
 <br />
 <br />
-<img  src="https://github-readme-stats.vercel.app/api?username=devpianist&title_color=FFBD00&text_color=626678&show_icons=true&icon_color=FFBD00&count_private=true&include_all_commits=true" alt="DevPianist Github Stats">
 <br />
 
 
